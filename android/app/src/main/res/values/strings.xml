@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sensorpack</string>
+    <string name="title_activity_main">sensorpack</string>
+    <string name="package_name">com.github.bitfexl.sensorpack</string>
+    <string name="custom_url_scheme">com.github.bitfexl.sensorpack</string>
+</resources>
