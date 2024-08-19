@@ -1,7 +1,9 @@
-import { useState } from "react";
+import { Location } from "./components/Location";
 
 export default function App() {
-    const [count, setCount] = useState(0);
-
-    return <button onClick={() => setCount((count) => count + 1)}>count is {count}</button>;
+    return (
+        <div className="p-4 ml-[20%]">
+            <Location></Location>
+        </div>
+    );
 }
