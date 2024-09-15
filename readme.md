@@ -1,3 +1,7 @@
+# Capacitor.js Test
+
+Position api does not really work. It only updates every 10 seconds or so which makes it unusable.
+
 ## App
 
 Build:
@@ -13,6 +17,12 @@ npm run dev
 ```
 
 ## Android
+
+Run (single command):
+
+```sh 
+npm run android
+```
 
 Docs:
 
